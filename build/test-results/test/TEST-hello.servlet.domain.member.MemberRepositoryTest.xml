@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.servlet.domain.member.MemberRepositoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-04-04T15:20:35" hostname="hangyuyeon-ui-MacBookAir.local" time="0.045">
+  <properties/>
+  <testcase name="findAll()" classname="hello.servlet.domain.member.MemberRepositoryTest" time="0.04"/>
+  <testcase name="clearStore()" classname="hello.servlet.domain.member.MemberRepositoryTest" time="0.002"/>
+  <testcase name="save()" classname="hello.servlet.domain.member.MemberRepositoryTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
